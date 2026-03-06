@@ -1,0 +1,127 @@
+header{
+    /* Rectangle 2 */
+
+position: absolute;
+width: 700px;
+height: 69px;
+
+background: #B49797;
+
+}
+main{
+/* Rectangle 1 */
+
+position: absolute;
+width: 700px;
+height: 350px;
+top:60px;
+background: url(1634881023_49-bigfoto-name-p-kafe-vnutri-pomeshcheniya-za-stolom-s-yedo-89.jpg);
+
+}
+footer{
+/* Rectangle 3 */
+
+position: absolute;
+top:400px;
+width: 700px;
+height: 59px;
+
+background: #9A8C8C;
+ 
+}
+.img1{
+height:350px;
+width:700px;
+}
+.elbryso{
+    /* Figaro Prime */
+
+position: absolute;
+width: 119px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+
+}
+.rayzen{
+    /* Головна */
+left:150px;
+position: absolute;
+width: 80px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+.style{
+    /* Меню */
+left:300px;
+position: absolute;
+width: 58px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+.stone{
+    /* Бронювання */
+left:450px;
+position: absolute;
+width: 123px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+.hello{
+    /* Відчуй смак справжньої їжі */
+left:100px;
+position: absolute;
+width: 431px;
+height: 39px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+button{
+/* Rectangle 4 */
+top:170px;
+left:210px;
+position: absolute;
+width: 200px;
+height: 60px;
+color:#FFFFFF;
+background: #C95252;
+border-radius: 50px;
+font-size:20px;
+}
